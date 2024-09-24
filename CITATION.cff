@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "NLM Baseline Dataset Insights"
+authors:
+  - family-names: "Gupta"
+    given-names: "Aditya Kumar"
+date-released: "2024-09-24"
+version: "0.1.0"
+url: "https://github.com/aditya30051993/NLM-Baseline-Dataset-Insights"
+license: "MIT"
+abstract: "Analyzing trends and insights in biomedical papers using NLM Baseline datasets"
